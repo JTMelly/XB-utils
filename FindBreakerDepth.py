@@ -1,7 +1,7 @@
 # calculate breaker depth for various modeled scenarios
 # provide (paleo) sea level and spectral wave estimates (from literature/satellite/buoy...)
 # based on Lorscheid and Rovere (2019) - https://doi.org/10.1186/s40965-019-0069-8
-# ...and Holthuijsenf (2007) - https://doi.org/10.1017/CBO9780511618536
+# ...and Holthuijsen (2007) - https://doi.org/10.1017/CBO9780511618536
 
 # %%
 ModernDDCP = 0      # modern sea level
