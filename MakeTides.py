@@ -10,8 +10,8 @@ import os
 
 
 # %% set wd and input tide file
-workingDirectory = '//home/jtm/Documents/Python/XB-utilsTestData/'
-tideFile = 'PasirRisTides.csv'
+workingDirectory = '/path_to_wd/'
+tideFile = 'TideFile.csv'
 os.chdir(workingDirectory)
 
 
